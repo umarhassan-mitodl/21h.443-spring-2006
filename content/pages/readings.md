@@ -57,7 +57,7 @@ Hobson, John A. "Imperialism." In *Imperialism: A Study*. New York, NY: Harper-C
 
 Lenin, V. I. "Imperialism, the Highest Stage of Capitalism." In *Selected Works*. Moscow, Russia: Progress, 1975 (originally, 1916), pp. 36-51.
 
-Orwell, George. "Shooting an Elephant." 1936. (A version of Orwell's essay, "{{% resource_link "1eb145fd-e51c-4343-a625-5b4b39fbf218" "Shooting an Elephant" %}}" is available from The University of Newcastle, Austrailia.)
+Orwell, George. "Shooting an Elephant." 1936. (A version of Orwell's essay, "[Shooting an Elephant](http://en.wikipedia.org/wiki/Shooting_an_Elephant)" is available from The University of Newcastle, Austrailia.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **The Foundation of "British" India, and the Roots of a New Imperialism**

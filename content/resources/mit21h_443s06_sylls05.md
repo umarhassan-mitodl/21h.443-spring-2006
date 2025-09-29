@@ -5,6 +5,8 @@ description: This syllabus provides the course description and information on re
 file: /courses/21h-443-european-imperialism-in-the-19th-and-20th-centuries-spring-2006/6c2c69e42a967e8f2a84a3c6b4c5f232_MIT21H_443s06_sylls05.pdf
 file_size: 155165
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
